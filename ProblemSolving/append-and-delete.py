@@ -1,5 +1,4 @@
 # https://www.hackerrank.com/challenges/append-and-delete/problem
-
 def appendAndDelete(s, t, k):
     common_prefix_length = 0
     for i, (char_s, char_t) in enumerate(zip(s, t)):
