@@ -11,7 +11,3 @@ All questions I could answer can be found [here](ProjectEuler).
 # [Problem Solving](https://www.hackerrank.com/domains/algorithms?badge_type=problem-solving)
 
 All challenges I could answer can be found [here](ProblemSolving).
-
-# [Artificial Intelligence](https://www.hackerrank.com/domains/ai)
-
-All challenges I could answer can be found [here](ArtificialIntelligence).
